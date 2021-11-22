@@ -1,11 +1,23 @@
+.indicators {
+    display: flex;
+    position: absolute;
+}
+
 .head {
     margin-top: 4rem;
 }
 
-.intro {
-    margin-top: 3rem;
+.back {
+    margin-top: 4rem;
+    background-color: rgba(172, 103, 43, 0.7);
+    padding: 2rem;
 }
 
 .intro-text {
     text-align: justify;
+}
+
+.ingredients {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
