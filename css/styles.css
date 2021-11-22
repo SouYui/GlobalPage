@@ -5,3 +5,7 @@
 .intro {
     margin-top: 3rem;
 }
+
+.intro-text {
+    text-align: justify;
+}
